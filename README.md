@@ -12,10 +12,6 @@ Neste trabalho, foi desenvolvido e avaliado um modelo baseado em redes neurais L
 
 * Gabriel Barbosa da Fonseca
 
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
-
 ## Arquivos Principais 
 
 * Documentação Final
