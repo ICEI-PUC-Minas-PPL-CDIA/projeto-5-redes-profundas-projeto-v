@@ -16,12 +16,14 @@ Neste trabalho, foi desenvolvido e avaliado um modelo baseado em redes neurais L
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
-## Histórico de versões
+## Arquivos Principais 
 
-* 0.1.1
-    * CHANGE: Atualização das documentacoes. Código permaneceu inalterado.
-* 0.1.0
-    * Indução do primeiro modelo do agente inteligente.
-* 0.0.1
-    * Trabalhando na preparação dos dados.
+* Documentação Final
+    * https://github.com/ICEI-PUC-Minas-PPL-CDIA/projeto-5-redes-profundas-projeto-v/tree/main/docs/Documenta%C3%A7%C3%A3o%20Final
+* Pré-Processamento
+    * https://github.com/ICEI-PUC-Minas-PPL-CDIA/projeto-5-redes-profundas-projeto-v/tree/main/assets/models/C%C3%B3digos
+* Base Final - Frames
+    * https://github.com/ICEI-PUC-Minas-PPL-CDIA/projeto-5-redes-profundas-projeto-v/tree/main/assets/data/Bases%20Frames
+* Modelo  e Refinamento
+    * https://github.com/ICEI-PUC-Minas-PPL-CDIA/projeto-5-redes-profundas-projeto-v/tree/main/assets/models/Modelo
 
