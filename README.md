@@ -18,8 +18,8 @@ Neste trabalho, foi desenvolvido e avaliado um modelo baseado em redes neurais L
     * https://github.com/ICEI-PUC-Minas-PPL-CDIA/projeto-5-redes-profundas-projeto-v/tree/main/docs/Documenta%C3%A7%C3%A3o%20Final
 * Pré-Processamento
     * https://github.com/ICEI-PUC-Minas-PPL-CDIA/projeto-5-redes-profundas-projeto-v/tree/main/assets/models/C%C3%B3digos
-* Base Final - Frames
-    * https://github.com/ICEI-PUC-Minas-PPL-CDIA/projeto-5-redes-profundas-projeto-v/tree/main/assets/data/Bases%20Frames
+* Bases Finais - Frames
+    * https://github.com/ICEI-PUC-Minas-PPL-CDIA/projeto-5-redes-profundas-projeto-v/tree/main/assets/data
 * Modelo  e Refinamento
     * https://github.com/ICEI-PUC-Minas-PPL-CDIA/projeto-5-redes-profundas-projeto-v/tree/main/assets/models/Modelo
 
