@@ -1,17 +1,16 @@
-# Nome do projeto
+# Uso de Técnicas de Deep Learning para o Reconhecimento da Língua de Sinais
 
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto. Lembrando que o objeto é desenvolver um sistema inteligente. Você deve mencionar o produto que está sendo desenvolvido, e não o que se espera obter com este produto.
+Neste trabalho, foi desenvolvido e avaliado um modelo baseado em redes neurais LSTM para o reconhecimento de sinais da Língua Brasileira de Sinais (LIBRAS), utilizando vetores de keypoints extraídos via MediaPipe Holistic. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* André Luiz Santos Moreira da Silv
+* Daniel Rocha Franca
+* Ligia Ferreira de Carvalho Gonçalves
 
 ## Professor
 
-* Nome completo do professor (Prof. Hugo Bastos de Paula)
+* Gabriel Barbosa da Fonseca
 
 ## Instruções de utilização
 
