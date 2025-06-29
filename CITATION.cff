@@ -1,15 +1,18 @@
 cff-version: 1.0.1
 message: Por favor, cite o repositório utilizando estes metadados.
-title: Repositório modelo para a disciplina de Projeto em Ciência de Dados I - Sistemas Inteligentes.
+title: Uso de Técnicas de Deep Learning para o Reconhecimento da Língua de Sinais
 authors:
-   - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: de Paula
-    given-names: Hugo
+   - family-names: Luiz Santos Moreira da Silva
+    given-names: André
+   - family-names: Rocha Franca
+    given-names: Daniel
+   - family-names: Ferreia de Carvalho Gonçalves
+    given-names: Ligia
 keywords:
   - Ciência de Dados
   - Jupyter Notebooks
-  - Aprendizado de Máquina
+  - Redes Neurais
+  - Aprendizado Profundo
 repository-code:
 license: CC-BY-4.0
 version: 1.0.0
